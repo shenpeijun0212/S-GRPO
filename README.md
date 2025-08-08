@@ -1,4 +1,4 @@
-# Enhanced OAT for Mathematical Reasoning
+# Mitigating Think-Answer Mismatch in LLM Reasoning Through Noise-Aware Advantage Reweighting
 
 This repository builds upon [Sail-SG's OAT project](https://github.com/sail-sg/oat/tree/main/oat), extending its capabilities with improvements in training stability, evaluation, and data processing, particularly for math reasoning tasks.
 
